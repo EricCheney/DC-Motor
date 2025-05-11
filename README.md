@@ -4,5 +4,6 @@
 
 ![Example](images/stator.png)
 ![Full](images/fullassembly.png)
+![Before](images/Before.png)
 
 ---
